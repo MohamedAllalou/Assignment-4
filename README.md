@@ -3,7 +3,7 @@ University Registration Management system with cool debug log to test for memory
 
 Program Description
 -------------------
-Students can enroll into ythe universty. They may register into various course offerings. The courses must fit into their schedules. THey can be deregistered from courses. They can be expelled from the university. Grades are stored in a student record. Students may not register in courses they have taken and passed. Courses currently enrolled have a grade of I. Alot of rules and stuff but basically it manages a university at a very basic level
+Students can enroll into the universty. They may register into various course offerings. The courses must fit into their schedules. THey can be deregistered from courses. They can be expelled from the university. Grades are stored in a student record. Students may not register in courses they have taken and passed. Courses currently enrolled have a grade of I. Alot of rules and stuff but basically it manages a university at a very basic level
 
 Notes
 -----
